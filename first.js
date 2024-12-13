@@ -1,6 +1,6 @@
 function fun(name,gender){
     if(gender=='male')
-        return "hello"+name+"sir";
+        return "hello "+name+"sir";
     else
     return "hello"+name+"ma'am";
 }
